@@ -8,4 +8,4 @@ This is Milad
 - My recent work involved in building and maintaining Natural Language Processing (NLP) systems like Google CCAI using the Advanced Agent Modeling (AAM) process.
 - Core developer and contributor to dfcx-scrapi: [PyPI](https://pypi.org/project/dfcx-scrapi/) / [github](https://github.com/GoogleCloudPlatform/dfcx-scrapi)
 - Find the essential and unseen feature of downloading transaction history for Robinhood in this [repo](https://github.com/MRyderOC/robinhood-history-to-csv).
-- Wanna get in touch? Email [milad@miladtabrizi.com](mailto:milad@miladtabrizi.com) or Connect on [LinkedIn](https://www.linkedin.com/in/m-tabrizi/)
+- Wanna get in touch? Email [milad@miladtabrizi.com](mailto:milad@miladtabrizi.com) or Connect on [LinkedIn](https://www.linkedin.com/in/miladt/)
